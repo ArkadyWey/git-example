@@ -3,6 +3,8 @@ def greeter(user_name: str) -> None:
     print(greeting_string)
     print("How are you, man!?")
     print("How was your day?")
+    print("How was your month?")
+
 
 
 if __name__ == "__main__":
