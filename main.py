@@ -4,7 +4,6 @@ def greeter(user_name: str) -> None:
     print("How are you!?")
     print("How was your day?")
     print("How was your month?")
-    print("How was your year?!")
 
 
 
