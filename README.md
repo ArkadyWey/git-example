@@ -7,5 +7,5 @@ Please ask Jeff before pushing to dev
 
 Please ask Jeremy before pushing to prod
 
-Bring bagels in on saturdays
+Bring coffe and bagels in on saturdays
 
